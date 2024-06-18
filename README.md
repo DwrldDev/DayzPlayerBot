@@ -1,6 +1,3 @@
-# DayzPlayerBot
-Dayz player count bot made in python using query info
-
 # DayZ Player Count Bot
 
 ## Overview
