@@ -1,0 +1,3 @@
+discord
+python-a2s
+python-dotenv
