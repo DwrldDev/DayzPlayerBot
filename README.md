@@ -7,7 +7,6 @@ A Python bot that monitors and logs the player count of a DayZ server every 5 mi
 ## Features
 - Lightweight
 - Queries DayZ server every 5 minutes
-- Logs player count with timestamps
 - Configurable settings via `.env` file
 
 ## Configuration
